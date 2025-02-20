@@ -2,13 +2,9 @@
 
 ## Team members' names 
 
-1. Student Name:
+1. Student Name: Simon Nguyen
 
-   Student UT EID:
-
-2. Student Name:
-
-   Student UT EID:
+   Student UT EID: sn27725
 
  ...
 
