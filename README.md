@@ -20,6 +20,11 @@
 
 # Add your Project REPORT HERE 
 
+NK	15.944765880783688
+UA	14.435441010805953
+F9	13.350858345331709
+
+these were outputs i got
 
 # Project Template
 
